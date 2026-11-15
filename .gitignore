@@ -1,0 +1,7 @@
+bin/
+obj/
+.nuget-feed/
+.nuget-packages/
+/NuGet.Config
+*.user
+/replay.json
